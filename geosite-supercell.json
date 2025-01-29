@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "supercell.com",
+                "supercell.net",
+                "supercell.helpshift.com"
+            ],
+            "domain_suffix": [
+                ".supercell.com",
+                ".supercell.net",
+                ".supercell.helpshift.com"
+            ]
+        }
+    ]
+}
