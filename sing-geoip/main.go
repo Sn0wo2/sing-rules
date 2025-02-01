@@ -267,7 +267,7 @@ func setActionOutput(name string, content string) {
 }
 
 func main() {
-	err := release("Loyalsoldier/geoip", "Sn0wo2/sing-rules", "geoip.db", "rule-set")
+	err := release("Loyalsoldier/geoip", "sing-rule/sing-rules", "geoip.db", "rule-set")
 	if err != nil {
 		log.Fatal(err)
 	}
